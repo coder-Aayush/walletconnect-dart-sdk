@@ -10,29 +10,29 @@ environment:
 
 dependencies:
   # WebSocket Channel
-  web_socket_channel: ^2.1.0
+  web_socket_channel: ^3.0.3
 
   # UUID
-  uuid: ^3.0.5
+  uuid: ^4.0.0
 
   # Cryptography
-  cryptography: ^2.0.5
+  cryptography: ^2.7.0
 
   # Hex
-  convert: ^3.0.1
+  convert: ^3.1.2
 
   # JSON Annotation
-  json_annotation: ^4.4.0
+  json_annotation: ^4.9.0
 
   # Stack trace
-  stack_trace: ^1.10.0
+  stack_trace: ^1.12.1
 
 dev_dependencies:
   # Testing framework
   test: ^1.20.1
 
   # JSON Serialization
-  json_serializable: ^6.1.4
+  json_serializable: ^6.10.0
 
   # Build runner
-  build_runner: ^2.1.7
+  build_runner: ^2.6.0
